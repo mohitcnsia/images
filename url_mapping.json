@@ -1,0 +1,647 @@
+[
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg",
+    "local_file": "OSIRIS_Mars_true_color.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/International_Space_Station_after_undocking_of_STS-132.jpg",
+    "local_file": "International_Space_Station_after_undocking_of_STS-132.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/DART_Spacecraft.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/0/07/DART_Spacecraft.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ptolemaic_system_2_%28psf%29.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/0/07/Ptolemaic_system_2_%28psf%29.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Titan_in_true_color.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/0/07/Titan_in_true_color.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Milky_Way_Galaxy.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/0/09/Milky_Way_Galaxy.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pleiades_large.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/10/Pleiades_large.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Orbital_mechanics.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/11/Orbital_mechanics.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Allen_Telescope_Array.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/14/Allen_Telescope_Array.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Apollo_11_Launch_-_GPN-2000-000630.jpg",
+    "local_file": "Apollo_11_Launch_-_GPN-2000-000630.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Are_we_alone%3F.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/18/Are_we_alone%3F.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Calabi_yau_formatted.svg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/1d/Calabi_yau_formatted.svg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Starship_Flight_3_Liftoff.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/1d/Starship_Flight_3_Liftoff.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Apollo_11_first_step.jpg",
+    "local_file": "Apollo_11_first_step.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Spacetime_curvature.png",
+    "local_file": "Spacetime_curvature.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Babylonian_clay_tablet_with_cuneiform.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/23/Babylonian_clay_tablet_with_cuneiform.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Comet_Hale-Bopp_1995O1.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/23/Comet_Hale-Bopp_1995O1.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Olympus_Mons_alt.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/23/Olympus_Mons_alt.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Wow_signal.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/29/Wow_signal.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lspn_comet_halley.jpg",
+    "local_file": "Lspn_comet_halley.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
+    "local_file": "Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Habitable_zone-en.svg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/2f/Habitable_zone-en.svg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Arecibo_message.svg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/30/Arecibo_message.svg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Oort_cloud_and_solar_system.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/30/Oort_cloud_and_solar_system.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Pulsar_schematic.svg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/30/Pulsar_schematic.svg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Hoba_Meteorite.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/36/Hoba_Meteorite.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg",
+    "local_file": "GodfreyKneller-IsaacNewton-1689.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ilc_9yr_moll4096.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Ilc_9yr_moll4096.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg",
+    "local_file": "Stonehenge2007_07_30.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Uranus2.jpg",
+    "local_file": "Uranus2.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Alpha_Centauri_system.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/3f/Alpha_Centauri_system.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/HST-SM4.jpeg",
+    "local_file": "HST-SM4.jpeg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mercury_and_Venus.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/3f/Mercury_and_Venus.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Geometry_of_a_Lunar_Eclipse.svg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/4/41/Geometry_of_a_Lunar_Eclipse.svg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/James_Webb_Space_Telescope_model.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/4/41/James_Webb_Space_Telescope_model.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg",
+    "local_file": "Mercury_in_true_color.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Meteor_in_the_night_sky.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/4/4b/Meteor_in_the_night_sky.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Edwin_Hubble.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/4/4c/Edwin_Hubble.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Io_highest_resolution_true_color.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/4/4e/Io_highest_resolution_true_color.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg",
+    "local_file": "Black_hole_-_Messier_87_crop_max_res.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Meteorid_shower_1_edit.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/52/Meteorid_shower_1_edit.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Asteroid_falling_to_Earth.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/53/Asteroid_falling_to_Earth.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Falcon_Heavy_Fairing.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/53/Falcon_Heavy_Fairing.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Gravity_action-reaction.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/53/Gravity_action-reaction.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Neptune_Full.jpg",
+    "local_file": "Neptune_Full.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Phobos_and_Deimos.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/5c/Phobos_and_Deimos.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Wormhole_travel.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/5e/Wormhole_travel.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png",
+    "local_file": "Voyager_spacecraft_model.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Meteor_burst.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/61/Meteor_burst.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Solar_wind.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/67/Solar_wind.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Escape_velocity.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/69/Escape_velocity.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Gravity_assist.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/69/Gravity_assist.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Heliosphere_diagram.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/69/Heliosphere_diagram.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Arecibo_Observatory_Aerial_View.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/6b/Arecibo_Observatory_Aerial_View.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Exoplanet_Comparison.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Exoplanet_Comparison.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Valles_Marineris_on_Mars.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Valles_Marineris_on_Mars.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg",
+    "local_file": "CMB_Timeline300_no_WMAP.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Asteroid_belt.svg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/7/75/Asteroid_belt.svg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg",
+    "local_file": "Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Enceladus_plumes.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/7/77/Enceladus_plumes.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Exoplanet_Atmosphere.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/7/77/Exoplanet_Atmosphere.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Henrietta_Swan_Leavitt.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/7/77/Henrietta_Swan_Leavitt.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Venus_globe.jpg",
+    "local_file": "Venus_globe.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Eratosthenes_measure_of_Earth_circumference.svg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/86/Eratosthenes_measure_of_Earth_circumference.svg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Chandrayaan-3_Vikram_Lander_from_Pragyan_Rover.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/87/Chandrayaan-3_Vikram_Lander_from_Pragyan_Rover.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Earth%27s_Location_in_the_Universe_SMALLER_%28JPEG%29.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/87/Earth%27s_Location_in_the_Universe_SMALLER_%28JPEG%29.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Enceladus_geysers_PIA07799.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/87/Enceladus_geysers_PIA07799.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Astrolabium_1.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/8c/Astrolabium_1.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Black_Hole_Event_Horizon.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/8c/Black_Hole_Event_Horizon.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Comet_67P_on_19_September_2014_NavCam_mosaic.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/8c/Comet_67P_on_19_September_2014_NavCam_mosaic.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Philae_lander.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/8f/Philae_lander.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lunar_eclipse_April_15_2014_California_by_Alfredo_Garcia_Jr.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/9/90/Lunar_eclipse_April_15_2014_California_by_Alfredo_Garcia_Jr.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Sun_red_giant.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/9/90/Sun_red_giant.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Drake_equation.svg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/9/91/Drake_equation.svg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/William_Herschel01.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/9/91/William_Herschel01.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg",
+    "local_file": "The_Earth_seen_from_Apollo_17.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg",
+    "local_file": "Andromeda_Galaxy_(with_h-alpha).jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Soyuz_TMA-9_launch.jpg",
+    "local_file": "Soyuz_TMA-9_launch.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Chandrayaan-3_Lander.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/9/9f/Chandrayaan-3_Lander.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Moon_phases_en.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/a/a2/Moon_phases_en.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Triton_moon_mosaic_Voyager_2_%28large%29.jpg",
+    "local_file": "Triton_moon_mosaic_Voyager_2_(large).jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/PIA23791-Venus-NewlyProcessedView-20200608.jpg",
+    "local_file": "PIA23791-Venus-NewlyProcessedView-20200608.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cosmological_expansion.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/a/ad/Cosmological_expansion.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Debris-LEO1280.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/a/af/Debris-LEO1280.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Light_dispersion_conceptual.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/a/af/Light_dispersion_conceptual.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saturn_Hexagon.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/a/af/Saturn_Hexagon.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Eagle_nebula_pillars.jpg",
+    "local_file": "Eagle_nebula_pillars.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg",
+    "local_file": "The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA's_Solar_Dynamics_Observatory_-_20100819.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ganymede%2C_moon_of_Jupiter%2C_NASA.jpg",
+    "local_file": "Ganymede,_moon_of_Jupiter,_NASA.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_1.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_1.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Solar_eclipse_1999_4_NR.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/c3/Solar_eclipse_1999_4_NR.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Artist%27s_rendering_of_ULAS_J1120%2B0641.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/c5/Artist%27s_rendering_of_ULAS_J1120%2B0641.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Redshift_blueshift.svg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/c5/Redshift_blueshift.svg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Space_Shuttle_Main_Engine.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/c5/Space_Shuttle_Main_Engine.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sirius_A_and_B_Hubble_photo.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/c6/Sirius_A_and_B_Hubble_photo.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg",
+    "local_file": "Saturn_during_Equinox.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Copernicus.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Copernicus.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Orion_constellation_map.svg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Orion_constellation_map.svg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Voyager_spacecraft_model.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d2/Voyager_spacecraft_model.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Apollo_13_Command_Module.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Apollo_13_Command_Module.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dark_matter_halo.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Dark_matter_halo.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Johannes_Kepler_1610.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Johannes_Kepler_1610.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
+    "local_file": "Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Keplers_supernova.jpg",
+    "local_file": "Keplers_supernova.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Kuiper_belt_-_Oort_cloud-en.svg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Kuiper_belt_-_Oort_cloud-en.svg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Neutron_star_illustration.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Neutron_star_illustration.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Space_Shuttle_Atlantis_landing.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d6/Space_Shuttle_Atlantis_landing.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kepler_space_telescope.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/de/Kepler_space_telescope.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Comet_NEOWISE_July_18_2020.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/df/Comet_NEOWISE_July_18_2020.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tardigrade.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/e0/Tardigrade.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg",
+    "local_file": "FullMoon2010.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter.jpg",
+    "local_file": "Jupiter.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Europa-moon.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/e4/Europa-moon.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Oort_cloud.png",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/e4/Oort_cloud.png"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg",
+    "local_file": "NASA_logo.svg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Venus-real_color.jpg",
+    "local_file": "Venus-real_color.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Black_Hole_Accretion_Disk.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Black_Hole_Accretion_Disk.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Hydrogen_discharge_tube.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Hydrogen_discharge_tube.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Valentina_Tereshkova_portrait.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Valentina_Tereshkova_portrait.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Yuri_Gagarin.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Yuri_Gagarin.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
+    "local_file": "Stephen_Hawking.StarChild.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Titan_in_true_color.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Titan_in_true_color.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mars_Orbiter_Mission_-_Mangalyaan.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Mars_Orbiter_Mission_-_Mangalyaan.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Polaris_system.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Polaris_system.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pluto_in_True_Color_-_High-Res.jpg",
+    "local_file": "Pluto_in_True_Color_-_High-Res.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/InnerSolarSystem-en.png",
+    "local_file": "InnerSolarSystem-en.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Martian_rover_Curiosity_using_ChemCam_M-100_focus_stacked_-_tight_crop.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Martian_rover_Curiosity_using_ChemCam_M-100_focus_stacked_-_tight_crop.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Annular_Eclipse._Taken_from_Middlegate%2C_Nevada_on_May_20%2C_2012.jpg",
+    "local_file": "",
+    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/f/fb/Annular_Eclipse._Taken_from_Middlegate%2C_Nevada_on_May_20%2C_2012.jpg"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rakesh_Sharma_in_1984.jpg/800px-Rakesh_Sharma_in_1984.jpg",
+    "local_file": "",
+    "status": "FAILED: 400 Client Error: Use thumbnail sizes listed on https://w.wiki/GHai for url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rakesh_Sharma_in_1984.jpg/800px-Rakesh_Sharma_in_1984.jpg"
+  }
+]
