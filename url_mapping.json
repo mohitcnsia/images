@@ -1,333 +1,273 @@
 [
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg",
-    "local_file": "OSIRIS_Mars_true_color.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/PSLV-C55%2C_TeLEOS-2_-_Panaromic_view_of_SDSC-SHAR%2C_Sriharikota._Partial_stack_of_first_and_second_stage_being_transferred_from_PIF_to_MST-FLP.webp/960px-PSLV-C55%2C_TeLEOS-2_-_Panaromic_view_of_SDSC-SHAR%2C_Sriharikota._Partial_stack_of_first_and_second_stage_being_transferred_from_PIF_to_MST-FLP.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "0372781b528858d3.webp",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/International_Space_Station_after_undocking_of_STS-132.jpg",
-    "local_file": "International_Space_Station_after_undocking_of_STS-132.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Olympic_rings_on_the_Eiffel_Tower_2024_%2810%29.jpg/960px-Olympic_rings_on_the_Eiffel_Tower_2024_%2810%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Olympic_rings_on_the_Eiffel_Tower_2024_(10).jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/DART_Spacecraft.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/0/07/DART_Spacecraft.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ptolemaic_system_2_%28psf%29.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/0/07/Ptolemaic_system_2_%28psf%29.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Titan_in_true_color.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/0/07/Titan_in_true_color.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Milky_Way_Galaxy.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/0/09/Milky_Way_Galaxy.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pleiades_large.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/10/Pleiades_large.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Orbital_mechanics.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/11/Orbital_mechanics.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Allen_Telescope_Array.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/14/Allen_Telescope_Array.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Apollo_11_Launch_-_GPN-2000-000630.jpg",
-    "local_file": "Apollo_11_Launch_-_GPN-2000-000630.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Indian_Astronaut_Logo.png/960px-Indian_Astronaut_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Indian_Astronaut_Logo.png",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Are_we_alone%3F.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/18/Are_we_alone%3F.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Calabi_yau_formatted.svg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/1d/Calabi_yau_formatted.svg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Starship_Flight_3_Liftoff.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/1/1d/Starship_Flight_3_Liftoff.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Apollo_11_first_step.jpg",
-    "local_file": "Apollo_11_first_step.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Apollo_15_Genesis_Rock.jpg/960px-Apollo_15_Genesis_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Apollo_15_Genesis_Rock.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Spacetime_curvature.png",
-    "local_file": "Spacetime_curvature.png",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg/960px-UGC_1810_and_UGC_1813_in_Arp_273_%28captured_by_the_Hubble_Space_Telescope%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-UGC_1810_and_UGC_1813_in_Arp_273_(captured_by_the_Hubble_Space_Telescope).jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Babylonian_clay_tablet_with_cuneiform.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/23/Babylonian_clay_tablet_with_cuneiform.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Comet_Hale-Bopp_1995O1.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/23/Comet_Hale-Bopp_1995O1.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Olympus_Mons_alt.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/23/Olympus_Mons_alt.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Wow_signal.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/29/Wow_signal.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lspn_comet_halley.jpg",
-    "local_file": "Lspn_comet_halley.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/PSLVC62.webp/960px-PSLVC62.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-PSLVC62.webp",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
-    "local_file": "Jupiter_and_its_shrunken_Great_Red_Spot.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyroot_Logo.svg/960px-Skyroot_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Skyroot_Logo.svg.png",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Habitable_zone-en.svg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/2f/Habitable_zone-en.svg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Arecibo_message.svg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/30/Arecibo_message.svg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Oort_cloud_and_solar_system.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/30/Oort_cloud_and_solar_system.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Pulsar_schematic.svg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/30/Pulsar_schematic.svg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Hoba_Meteorite.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/36/Hoba_Meteorite.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg",
-    "local_file": "GodfreyKneller-IsaacNewton-1689.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Stspad39baerial.jpg/960px-Stspad39baerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Stspad39baerial.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ilc_9yr_moll4096.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/3c/Ilc_9yr_moll4096.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg",
-    "local_file": "Stonehenge2007_07_30.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Valkyrie-robot-3.jpg/960px-Valkyrie-robot-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Valkyrie-robot-3.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Uranus2.jpg",
-    "local_file": "Uranus2.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Luca_Giordano_-_Dream_of_Solomon_-_WGA09004.jpg/960px-Luca_Giordano_-_Dream_of_Solomon_-_WGA09004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Luca_Giordano_-_Dream_of_Solomon_-_WGA09004.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Alpha_Centauri_system.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/3f/Alpha_Centauri_system.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/HST-SM4.jpeg",
-    "local_file": "HST-SM4.jpeg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/RLV-TD_HEX01%2C_TDV_being_hoisted.jpg/960px-RLV-TD_HEX01%2C_TDV_being_hoisted.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-RLV-TD_HEX01,_TDV_being_hoisted.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mercury_and_Venus.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/3/3f/Mercury_and_Venus.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Geometry_of_a_Lunar_Eclipse.svg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/4/41/Geometry_of_a_Lunar_Eclipse.svg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/James_Webb_Space_Telescope_model.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/4/41/James_Webb_Space_Telescope_model.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg",
-    "local_file": "Mercury_in_true_color.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/GPS_Block_IIIA.jpg/960px-GPS_Block_IIIA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-GPS_Block_IIIA.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Meteor_in_the_night_sky.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/4/4b/Meteor_in_the_night_sky.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Edwin_Hubble.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/4/4c/Edwin_Hubble.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Io_highest_resolution_true_color.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/4/4e/Io_highest_resolution_true_color.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg",
-    "local_file": "Black_hole_-_Messier_87_crop_max_res.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/The_SpaceX_Dragon_spacecraft_carrying_Axiom_Mission_4_approaches_the_International_Space_Station_%28iss073e0249606%29.jpg/960px-The_SpaceX_Dragon_spacecraft_carrying_Axiom_Mission_4_approaches_the_International_Space_Station_%28iss073e0249606%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "cf7f1b20bf478e0b.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Meteorid_shower_1_edit.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/52/Meteorid_shower_1_edit.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Asteroid_falling_to_Earth.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/53/Asteroid_falling_to_Earth.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Falcon_Heavy_Fairing.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/53/Falcon_Heavy_Fairing.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Gravity_action-reaction.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/53/Gravity_action-reaction.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Neptune_Full.jpg",
-    "local_file": "Neptune_Full.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/PragyanOjha_.jpg/960px-PragyanOjha_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-PragyanOjha_.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Phobos_and_Deimos.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/5c/Phobos_and_Deimos.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Wormhole_travel.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/5e/Wormhole_travel.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png",
-    "local_file": "Voyager_spacecraft_model.png",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Sunita_Williams_in_2018.jpg/960px-Sunita_Williams_in_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Sunita_Williams_in_2018.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Meteor_burst.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/61/Meteor_burst.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Solar_wind.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/67/Solar_wind.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Escape_velocity.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/69/Escape_velocity.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Gravity_assist.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/69/Gravity_assist.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Heliosphere_diagram.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/69/Heliosphere_diagram.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Arecibo_Observatory_Aerial_View.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/6b/Arecibo_Observatory_Aerial_View.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Exoplanet_Comparison.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Exoplanet_Comparison.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Valles_Marineris_on_Mars.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/6/6c/Valles_Marineris_on_Mars.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg",
-    "local_file": "CMB_Timeline300_no_WMAP.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/960px-Black_hole_-_Messier_87_crop_max_res.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Black_hole_-_Messier_87_crop_max_res.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Asteroid_belt.svg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/7/75/Asteroid_belt.svg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg",
-    "local_file": "Ceres_-_RC3_-_Haulani_Crater_(22381131691)_(cropped).jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Indian_Air_Force%27s_Aircraft.jpg/960px-Indian_Air_Force%27s_Aircraft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Indian_Air_Force's_Aircraft.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Enceladus_plumes.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/7/77/Enceladus_plumes.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Exoplanet_Atmosphere.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/7/77/Exoplanet_Atmosphere.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Henrietta_Swan_Leavitt.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/7/77/Henrietta_Swan_Leavitt.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Venus_globe.jpg",
-    "local_file": "Venus_globe.jpg",
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/LVM3_M6_with_BlueBird-6_during_Liftoff_%283%29.webp/960px-LVM3_M6_with_BlueBird-6_during_Liftoff_%283%29.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-LVM3_M6_with_BlueBird-6_during_Liftoff_(3).webp",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Eratosthenes_measure_of_Earth_circumference.svg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/86/Eratosthenes_measure_of_Earth_circumference.svg"
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Gaganyaan_vehicle_used_for_TVD1_mission.webp/960px-Gaganyaan_vehicle_used_for_TVD1_mission.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Gaganyaan_vehicle_used_for_TVD1_mission.webp",
+    "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Chandrayaan-3_Vikram_Lander_from_Pragyan_Rover.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/87/Chandrayaan-3_Vikram_Lander_from_Pragyan_Rover.jpg"
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg/960px-Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Mars_Orbiter_Mission_Over_Mars_(15237158879).jpg",
+    "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Earth%27s_Location_in_the_Universe_SMALLER_%28JPEG%29.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/87/Earth%27s_Location_in_the_Universe_SMALLER_%28JPEG%29.jpg"
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/A._P._J._Abdul_Kalam.jpg/960px-A._P._J._Abdul_Kalam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-A._P._J._Abdul_Kalam.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/F9_and_Heavy_visu.png/960px-F9_and_Heavy_visu.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-F9_and_Heavy_visu.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Outer_Space_Treaty_parties.svg/960px-Outer_Space_Treaty_parties.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Outer_Space_Treaty_parties.svg.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/GSLV_F16_during_Liftoff_carrying_NISAR.webp/960px-GSLV_F16_during_Liftoff_carrying_NISAR.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-GSLV_F16_during_Liftoff_carrying_NISAR.webp",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Kalpana_Chawla%2C_NASA_photo_portrait_in_orange_suit.jpg/960px-Kalpana_Chawla%2C_NASA_photo_portrait_in_orange_suit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Kalpana_Chawla,_NASA_photo_portrait_in_orange_suit.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Lagrange_points_simple.svg/960px-Lagrange_points_simple.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Lagrange_points_simple.svg.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/LVM3_M4%2C_Chandrayaan-3_-_Launch_vehicle_lifting_off_from_the_Second_Launch_Pad_%28SLP%29_of_SDSC-SHAR%2C_Sriharikota_02.webp/960px-LVM3_M4%2C_Chandrayaan-3_-_Launch_vehicle_lifting_off_from_the_Second_Launch_Pad_%28SLP%29_of_SDSC-SHAR%2C_Sriharikota_02.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "79645cd7848ae3a6.webp",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/TEIDE.JPG/960px-TEIDE.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-TEIDE.JPG",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Falcon_9_logo.svg/960px-Falcon_9_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Falcon_9_logo.svg.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/960px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Flag_of_the_Soviet_Union.svg.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NASA_seal.svg/960px-NASA_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-NASA_seal.svg.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Chandrayaan-1-MIP1.jpg/960px-Chandrayaan-1-MIP1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Chandrayaan-1-MIP1.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Globe_Atlantic.svg/960px-Globe_Atlantic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Globe_Atlantic.svg.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Moon_Soft_Landings.svg/960px-Moon_Soft_Landings.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Moon_Soft_Landings.svg.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Soyuz-T-11-Mission-Patch.svg/960px-Soyuz-T-11-Mission-Patch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Soyuz-T-11-Mission-Patch.svg.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Indian_Space_Research_Organisation_Logo.svg/960px-Indian_Space_Research_Organisation_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Indian_Space_Research_Organisation_Logo.svg.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Dawn_of_the_Space_Age.jpg/960px-Dawn_of_the_Space_Age.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Dawn_of_the_Space_Age.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Indian_Institute_of_Astrophysics_Bangalore.jpg/960px-Indian_Institute_of_Astrophysics_Bangalore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Indian_Institute_of_Astrophysics_Bangalore.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Insat-1B.jpg/960px-Insat-1B.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Insat-1B.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg/960px-View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-View_from_Visvesvaraya_Industrial_and_Technological_Museum_(2025)_02.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Shackleton_Crater.jpg/960px-Shackleton_Crater.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Shackleton_Crater.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ashta-Matrika.jpg/960px-Ashta-Matrika.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Ashta-Matrika.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Moteur-Vulcain.jpg/960px-Moteur-Vulcain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "local_file": "960px-Moteur-Vulcain.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/S._Somanath%2C_Director_of_VSSC%2C_ISRO%2C_speaks_during_the_Heads_of_Agency_Plenary_of_the_70th_International_Astronautical_Congress_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "da0008d94ec02047.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/ORS-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "ORS-2.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Clock-pendulum.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Clock-pendulum.gif",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Rakesh_Sharma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Rakesh_Sharma.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Wing_Commander_Shubhanshu_Shukla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Wing_Commander_Shubhanshu_Shukla.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Venus_Orbiter_Mission_%28VOM%29_in_stowed_configuration_AITC-2025_01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Venus_Orbiter_Mission_(VOM)_in_stowed_configuration_AITC-2025_01.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/U_R_Rao_ISRO.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "U_R_Rao_ISRO.webp",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dr_Vikram_Sarabhai_ISRO.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Dr_Vikram_Sarabhai_ISRO.webp",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Aryabhatta_of_Bihar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Aryabhatta_of_Bihar.jpg",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/HSFC_ISRO_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "HSFC_ISRO_logo.png",
+    "status": "OK"
+  },
+  {
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vanguard_tv-3_launchpad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Vanguard_tv-3_launchpad.jpg",
+    "status": "OK"
   },
   {
     "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Enceladus_geysers_PIA07799.jpg",
@@ -335,309 +275,49 @@
     "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/87/Enceladus_geysers_PIA07799.jpg"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Astrolabium_1.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/8c/Astrolabium_1.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Black_Hole_Event_Horizon.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/8c/Black_Hole_Event_Horizon.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Comet_67P_on_19_September_2014_NavCam_mosaic.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/8c/Comet_67P_on_19_September_2014_NavCam_mosaic.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Philae_lander.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/8/8f/Philae_lander.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lunar_eclipse_April_15_2014_California_by_Alfredo_Garcia_Jr.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/9/90/Lunar_eclipse_April_15_2014_California_by_Alfredo_Garcia_Jr.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Sun_red_giant.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/9/90/Sun_red_giant.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Drake_equation.svg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/9/91/Drake_equation.svg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/William_Herschel01.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/9/91/William_Herschel01.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg",
-    "local_file": "The_Earth_seen_from_Apollo_17.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Chandrayaan1_Spacecraft_Discovery_Moon_Water.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Chandrayaan1_Spacecraft_Discovery_Moon_Water.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Andromeda_Galaxy_%28with_h-alpha%29.jpg",
-    "local_file": "Andromeda_Galaxy_(with_h-alpha).jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Vier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Vier.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Soyuz_TMA-9_launch.jpg",
-    "local_file": "Soyuz_TMA-9_launch.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Woodstock_redmond_stage.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Woodstock_redmond_stage.JPG",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Chandrayaan-3_Lander.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/9/9f/Chandrayaan-3_Lander.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Moon_phases_en.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/a/a2/Moon_phases_en.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Triton_moon_mosaic_Voyager_2_%28large%29.jpg",
-    "local_file": "Triton_moon_mosaic_Voyager_2_(large).jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Narendra_Modi_Portrait_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Narendra_Modi_Portrait_2026.jpg",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/PIA23791-Venus-NewlyProcessedView-20200608.jpg",
-    "local_file": "PIA23791-Venus-NewlyProcessedView-20200608.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/S_Dhawan_official_Portrait_ISRO.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "S_Dhawan_official_Portrait_ISRO.webp",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cosmological_expansion.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/a/ad/Cosmological_expansion.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Debris-LEO1280.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/a/af/Debris-LEO1280.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Light_dispersion_conceptual.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/a/af/Light_dispersion_conceptual.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Saturn_Hexagon.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/a/af/Saturn_Hexagon.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Eagle_nebula_pillars.jpg",
-    "local_file": "Eagle_nebula_pillars.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/2019_collage_v1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "2019_collage_v1.png",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg",
-    "local_file": "The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA's_Solar_Dynamics_Observatory_-_20100819.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Indian_space_station_concept_rough_drawing.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Indian_space_station_concept_rough_drawing.png",
     "status": "OK"
   },
   {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ganymede%2C_moon_of_Jupiter%2C_NASA.jpg",
-    "local_file": "Ganymede,_moon_of_Jupiter,_NASA.jpg",
-    "status": "OK"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_1.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_1.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Solar_eclipse_1999_4_NR.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/c3/Solar_eclipse_1999_4_NR.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Artist%27s_rendering_of_ULAS_J1120%2B0641.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/c5/Artist%27s_rendering_of_ULAS_J1120%2B0641.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Redshift_blueshift.svg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/c5/Redshift_blueshift.svg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Space_Shuttle_Main_Engine.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/c5/Space_Shuttle_Main_Engine.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Sirius_A_and_B_Hubble_photo.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/c6/Sirius_A_and_B_Hubble_photo.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg",
-    "local_file": "Saturn_during_Equinox.jpg",
-    "status": "OK"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Copernicus.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Copernicus.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Orion_constellation_map.svg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/c/ce/Orion_constellation_map.svg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Voyager_spacecraft_model.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d2/Voyager_spacecraft_model.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Apollo_13_Command_Module.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Apollo_13_Command_Module.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dark_matter_halo.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Dark_matter_halo.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Johannes_Kepler_1610.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Johannes_Kepler_1610.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
-    "local_file": "Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg",
-    "status": "OK"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Keplers_supernova.jpg",
-    "local_file": "Keplers_supernova.jpg",
-    "status": "OK"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Kuiper_belt_-_Oort_cloud-en.svg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Kuiper_belt_-_Oort_cloud-en.svg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Neutron_star_illustration.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d4/Neutron_star_illustration.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Space_Shuttle_Atlantis_landing.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/d6/Space_Shuttle_Atlantis_landing.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kepler_space_telescope.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/de/Kepler_space_telescope.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Comet_NEOWISE_July_18_2020.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/d/df/Comet_NEOWISE_July_18_2020.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tardigrade.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/e0/Tardigrade.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg",
-    "local_file": "FullMoon2010.jpg",
-    "status": "OK"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter.jpg",
-    "local_file": "Jupiter.jpg",
-    "status": "OK"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Europa-moon.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/e4/Europa-moon.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Oort_cloud.png",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/e4/Oort_cloud.png"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg",
-    "local_file": "NASA_logo.svg",
-    "status": "OK"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Venus-real_color.jpg",
-    "local_file": "Venus-real_color.jpg",
-    "status": "OK"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Black_Hole_Accretion_Disk.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Black_Hole_Accretion_Disk.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Hydrogen_discharge_tube.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Hydrogen_discharge_tube.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Valentina_Tereshkova_portrait.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Valentina_Tereshkova_portrait.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Yuri_Gagarin.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Yuri_Gagarin.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
-    "local_file": "Stephen_Hawking.StarChild.jpg",
-    "status": "OK"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Titan_in_true_color.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Titan_in_true_color.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mars_Orbiter_Mission_-_Mangalyaan.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Mars_Orbiter_Mission_-_Mangalyaan.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Polaris_system.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/e/ee/Polaris_system.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pluto_in_True_Color_-_High-Res.jpg",
-    "local_file": "Pluto_in_True_Color_-_High-Res.jpg",
-    "status": "OK"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/InnerSolarSystem-en.png",
-    "local_file": "InnerSolarSystem-en.png",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Aditya_L1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "local_file": "Aditya_L1.png",
     "status": "OK"
   },
   {
     "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Martian_rover_Curiosity_using_ChemCam_M-100_focus_stacked_-_tight_crop.jpg",
     "local_file": "",
     "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/f/fa/Martian_rover_Curiosity_using_ChemCam_M-100_focus_stacked_-_tight_crop.jpg"
-  },
-  {
-    "original_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Annular_Eclipse._Taken_from_Middlegate%2C_Nevada_on_May_20%2C_2012.jpg",
-    "local_file": "",
-    "status": "FAILED: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/f/fb/Annular_Eclipse._Taken_from_Middlegate%2C_Nevada_on_May_20%2C_2012.jpg"
   },
   {
     "original_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Rakesh_Sharma_in_1984.jpg/800px-Rakesh_Sharma_in_1984.jpg",
