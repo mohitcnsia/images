@@ -14,3 +14,10 @@ All photos are public domain educational specimens from GeoDIL (Geological Digit
 | Marble | Metamorphic | `rock-marble.webp` | [link](https://cdn.jsdelivr.net/gh/mohitcnsia/images@main/rock-marble.webp) | Nessa Eull (GeoDIL) | CC0 1.0 (Public Domain) | [Wikimedia](https://commons.wikimedia.org/wiki/File:White_marble_(GeoDIL_number_-_507).jpg) |
 | Slate | Metamorphic | `rock-slate.webp` | [link](https://cdn.jsdelivr.net/gh/mohitcnsia/images@main/rock-slate.webp) | Dexter Perkins (GeoDIL) | CC0 1.0 (Public Domain) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Gray_slate_(GeoDIL_number_-_15).jpg) |
 | Quartzite | Metamorphic | `rock-quartzite.webp` | [link](https://cdn.jsdelivr.net/gh/mohitcnsia/images@main/rock-quartzite.webp) | Nessa Eull (GeoDIL) | CC0 1.0 (Public Domain) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Quartzite_(GeoDIL_number_-_513).jpg) |
+
+## Replacements (24 Nov, clearer hand specimens; the old files stay in place)
+
+| Rock | Family | Filename | CDN URL | Author | Licence | Source |
+|---|---|---|---|---|---|---|
+| Granite | Igneous | `rock-granite-2.webp` | [link](https://cdn.jsdelivr.net/gh/mohitcnsia/images@main/rock-granite-2.webp) | GeoDIL (Univ. of North Dakota) | CC0 1.0 (Public Domain) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Biotite-hornblende_granite_(GeoDIL_number_-_21).jpg) |
+| Quartzite | Metamorphic | `rock-quartzite-2.webp` | [link](https://cdn.jsdelivr.net/gh/mohitcnsia/images@main/rock-quartzite-2.webp) | GeoDIL (Univ. of North Dakota) | CC0 1.0 (Public Domain) | [Wikimedia](https://commons.wikimedia.org/wiki/File:Pink_quartzite_(GeoDIL_number_-_419).jpg) |
